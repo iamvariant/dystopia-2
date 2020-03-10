@@ -16,5 +16,4 @@ dependencies:
     - ipython
     - sklearn2
     - flask
-    - pickle
     - imutils
