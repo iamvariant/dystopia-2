@@ -15,3 +15,6 @@ dependencies:
     - Cython
     - ipython
     - sklearn2
+    - flask
+    - pickle
+    - imutils
